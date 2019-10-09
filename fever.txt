@@ -1,0 +1,52 @@
+# Fever (for Cerner)
+
+## History:
+
+[Links to other note templates for febrile patients with host compromise]
+
+First started _ and has been gradually _. No noticeable patterns with fever spikes. Tmax of _, measured by _. Still taking in feeding per usual and making adequate wet diapers. 
+
+No known sick contacts, recent travel, unusual pet/insect contact, raw/atypical foods, or atypical activites.
+
+No previous evaluation by other healthcare providers_.
+
+PMHx: No recurrent febrile illnesses. No factors constituting host compromise. 
+PSHx: none
+Imm: UTD
+Meds: _
+Allergy: NKFDA
+FHx: Non-contributory
+Social: _ daycare
+
+## ROS:
+General: No lethargy, unintended weight loss, night sweats
+HEENT: No changes in vision, pain with eye movement, hearing, changes in voice
+Neck: No fixed lumps
+Resp: No coughing up blood
+CV: No loss of perfusion
+GI: No problems swallowing, hematemesis, RLQ pain, hematochezia
+GU: No gross hematuria, flank pain
+MSK: No focal swollen joints, focal bone pain, no hand swelling
+Heme: No purpura
+Endo: No goiter
+Skin: No fluctuant masses
+Neuro: No seizures
+Psych: No altered mental status
+
+## Physical Exam:
+
+Gen: Awake, alert. No acute distress.
+HEENT: No eyelid swelling, sclera white, normal eye movement. TM's normal bilaterally. No nasal discharge. Moist mucous membranes without ulceration, tongue normal size, no gross tooth decay, oropharynx clear. No stridor.
+Resp: Comfortable breathing. Air movement in all lung fields, no wheezes/crackles/rhonchi
+CV: Tachycardic_, no murmurs/rubs/gallops. Cap refill < 2 secs.
+Neck: Supple, full ROM
+GI: Soft, non-distended, non-tender.
+MSK: Full ROM, normal gait/posture, no swollen hands or feet.
+Skin: No rashes or fluctuant masses
+Neuro: No focal deficits. Good tone.
+
+## Assessment and Plan:
+
+History and physical consistent with acute viral syndrome_. Patient non-toxic appearing with stable vital signs.
+
+Suitable for further management at home with _, NSAIDS, and hydration. All caregiver questions answered. Return precautions given.

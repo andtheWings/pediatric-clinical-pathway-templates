@@ -1,0 +1,35 @@
+# History
+
+_ is a _ girl with _ who presents with _ _ lower abdominal pain (_ out of 10) for _, gradually _. Still taking adequate fluids and nutrition. 
+
+No fevers. No history of abdominal surgery. No emesis, diarrhea, or constipation. No dysuria, polyuria, vaginal discharge, or bleeding. Last menstrual period was _.
+
+# ROS
+
+Constitutional:  No fevers, no dehydration
+Eyes:  No conjunctival injection
+Ears, Nose, Mouth, Throat:  No nasal congestion
+Respiratory:  No cough
+Cardiovascular: No edema
+Gastrointestinal: No focalization to RLQ
+Genitourinary: Not pregnant, no hematuria, no vaginal bleeding
+Endocrine:  No polyuria
+Musculoskeletal: No joint swelling
+Skin: No rash
+Neurologic: No focal weakness
+
+# Physical Exam
+
+Constitutional:  No acute distress, well-nourished
+Eyes:  Normal conjunctiva
+ENMT:  Moist oral mucosa, oropharynx clear, TM's normal bilaterally
+Neck:  Supple, non-tender, intact range of motion
+Respiratory:  Lungs CTAB, effort normal, no wheezing/crackles/rhonchi
+Cardiovascular:  Regular rate and rhythm, no murmurs/rubs/gallops, capillary refill < 2 sec
+Gastrointestinal:  Soft, non-tender, non-distended
+Genitourinary: No cervical motion tenderness
+Musculoskeletal:  Intact ROM
+Integumentary:  Intact, warm, dry, no rashes
+Neurologic:  No focal deficits
+Psychiatric:  Cooperative
+

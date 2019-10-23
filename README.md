@@ -1,4 +1,4 @@
-## Clinical Pathway Templates
+## Pediatric Clinical Pathway Templates
 
 Note templates adapted as complements to clinical pathway resources, e.g. from [CHOP](https://www.chop.edu/pathways-library), [Seattle Children's](https://www.seattlechildrens.org/healthcare-professionals/gateway/clinical-resources/pathways/), [Children's Hospital Colorado](https://www.childrenscolorado.org/health-professionals/clinical-resources/clinical-pathways/)
 
